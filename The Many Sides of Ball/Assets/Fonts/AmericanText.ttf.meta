@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6efc808fdcc03c14e9aff49eeb0c4c74
+timeCreated: 1485374435
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: American Text
+  fontNames:
+  - American Text
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

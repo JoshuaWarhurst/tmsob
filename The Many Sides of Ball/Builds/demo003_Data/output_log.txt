@@ -1,0 +1,804 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R5 M335 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\Triangle.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo003_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.832788 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 44a0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.219150 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 724.
+Total: 1.599206 ms (FindLiveObjects: 0.045036 ms CreateObjectMapping: 0.029629 ms MarkObjects: 0.242962 ms  DeleteObjects: 1.280787 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.890862 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1001.
+Total: 2.674957 ms (FindLiveObjects: 0.067555 ms CreateObjectMapping: 0.028049 ms MarkObjects: 0.323949 ms  DeleteObjects: 2.255007 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.821331 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 922.
+Total: 1.632786 ms (FindLiveObjects: 0.066370 ms CreateObjectMapping: 0.035555 ms MarkObjects: 0.354369 ms  DeleteObjects: 1.175701 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+

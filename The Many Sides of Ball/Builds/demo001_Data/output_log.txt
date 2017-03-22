@@ -1,0 +1,486 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R5 M335 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\Triangle.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jwcwa\Documents\Unity Projects\The Many Sides of Ball\Builds\demo001_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.958022 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3f68 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.669326 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 998.
+Total: 3.054611 ms (FindLiveObjects: 0.088888 ms CreateObjectMapping: 0.043456 ms MarkObjects: 0.408097 ms  DeleteObjects: 2.512982 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1715)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 56.452232 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 655.
+Total: 4.374509 ms (FindLiveObjects: 0.042271 ms CreateObjectMapping: 0.031604 ms MarkObjects: 0.594566 ms  DeleteObjects: 3.705276 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.852936 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 756.
+Total: 1.785280 ms (FindLiveObjects: 0.026074 ms CreateObjectMapping: 0.023703 ms MarkObjects: 0.267851 ms  DeleteObjects: 1.467651 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PauseScript.TogglePauseMenu () [0x00000] in <filename unknown>:0 
+  at PauseScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PauseScript.TogglePauseMenu () [0x00000] in <filename unknown>:0 
+  at PauseScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PauseScript.TogglePauseMenu () [0x00000] in <filename unknown>:0 
+  at PauseScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PauseScript.TogglePauseMenu () [0x00000] in <filename unknown>:0 
+  at PauseScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PauseScript.TogglePauseMenu () [0x00000] in <filename unknown>:0 
+  at PauseScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

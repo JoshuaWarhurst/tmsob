@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8a619ab8da09f534f98f191cb0b0a58c
+timeCreated: 1485375455
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roundo
+  fontNames:
+  - Roundo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 011a59d0cea069b4ebbeac1876c0e4d0, type: 3}
+  - {fileID: 12800000, guid: 83c603e3214c1f44497180dea9588244, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
