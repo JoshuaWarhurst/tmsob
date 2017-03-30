@@ -66,6 +66,7 @@ public class PlayerController : MonoBehaviour {
 	public class SoundSettings
 	{
 		public AudioClip jumpSound;
+        public float jumpTimer = 0f;
 	}
 
 	[System.Serializable]
@@ -184,6 +185,8 @@ public class PlayerController : MonoBehaviour {
 		PutDown ();
 		QuickSave ();
 		QuickLoad ();
+        if (soundSetting.jumpTimer >= 0f)
+            soundSetting.jumpTimer -= Time.deltaTime;
 	}
 
 	void FixedUpdate()
@@ -197,7 +200,7 @@ public class PlayerController : MonoBehaviour {
 		VerticalMovement ();
 		StopOnGround ();
 		Fall ();
-		if (abilitySetting.ableToFloat && abilitySetting.floatCharges > 0) 
+		if (abilitySetting.ableToFloat /*&& abilitySetting.floatCharges > 0*/) 
 			Float ();
 		if (abilitySetting.ableToSpeedBoost) 
 			SpeedBoost ();
@@ -556,8 +559,10 @@ public class PlayerController : MonoBehaviour {
 	{
 		if (abilitySetting.ableToJump == true) 
 		{
-			source.PlayOneShot (soundSetting.jumpSound, 0.5f);
-			anim.SetBool ("onGround", false);
+            if (soundSetting.jumpTimer <= 0)
+                source.PlayOneShot(soundSetting.jumpSound, 0.5f);
+            anim.SetBool ("onGround", false);
+            soundSetting.jumpTimer = 0.1f;
             velocity.y = moveSetting.jumpVel + (moveSetting.forwardVel / 12);
 			moveSetting.timeSinceGrounded = 100; //100 is arbitrary, just so can't jump again at the top of jump arc
 			velocity.z = 0;

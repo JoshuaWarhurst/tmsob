@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class OnCollisionCameraChange : MonoBehaviour {
 
+    [HideInInspector]
     public PlayerController player;
 
     public GameObject newCamera;
