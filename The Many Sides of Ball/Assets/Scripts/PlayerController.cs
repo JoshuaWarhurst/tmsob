@@ -560,7 +560,11 @@ public class PlayerController : MonoBehaviour {
 		if (abilitySetting.ableToJump == true) 
 		{
             if (soundSetting.jumpTimer <= 0)
+            {
+                source.pitch = Random.Range(1.2f, 1.4f);
+                source.volume = Random.Range(0.06f, 0.14f);
                 source.PlayOneShot(soundSetting.jumpSound, 0.5f);
+            }
             anim.SetBool ("onGround", false);
             soundSetting.jumpTimer = 0.1f;
             velocity.y = moveSetting.jumpVel + (moveSetting.forwardVel / 12);
