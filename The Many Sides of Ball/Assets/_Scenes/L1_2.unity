@@ -1756,6 +1756,16 @@ Prefab:
       propertyPath: physSetting.downAccel
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 95000014156297058, guid: bf568530c52a6054a9776c2073816573,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 82000010969020806, guid: bf568530c52a6054a9776c2073816573,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bf568530c52a6054a9776c2073816573, type: 2}
   m_IsPrefabParent: 0

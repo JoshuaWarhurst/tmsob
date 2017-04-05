@@ -20,6 +20,7 @@ public class PlayerController : MonoBehaviour {
 	public class MoveSettings
 	{
         public float startForwardVel = 12;
+        [HideInInspector]
 		public float forwardVel = 12;
 		public float rotateVel = 50;
 		public float accel = 1f;
@@ -128,7 +129,50 @@ public class PlayerController : MonoBehaviour {
 
 	void Start()
 	{
-		targetRotation = transform.rotation;
+        #region set Game Type based on level
+        if (SceneManager.GetActiveScene().name == "L1_1")
+            gameType = GAME_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L1_2")
+            gameType = GAME_TYPE.TOP_DOWN;
+        if (SceneManager.GetActiveScene().name == "L1_3")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L2_1")
+            gameType = GAME_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L2_2")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L2_3")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L3_1")
+            gameType = GAME_TYPE.TOP_DOWN;
+        if (SceneManager.GetActiveScene().name == "L3_2")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L3_3")
+            gameType = GAME_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L4_1")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L4_2")
+            gameType = GAME_TYPE.TOP_DOWN;
+        if (SceneManager.GetActiveScene().name == "L5_1")
+            gameType = GAME_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L5_2")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L5_3")
+            gameType = GAME_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L5_4")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L6_1")
+            gameType = GAME_TYPE.TOP_DOWN;
+        if (SceneManager.GetActiveScene().name == "L6_2")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L6_3")
+            gameType = GAME_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L6_4")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "Epilogue")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        #endregion
+
+        targetRotation = transform.rotation;
 
 		forwardInput = turnInput = jumpInput = sideInput = 0;
 
@@ -187,7 +231,7 @@ public class PlayerController : MonoBehaviour {
 		QuickLoad ();
         if (soundSetting.jumpTimer >= 0f)
             soundSetting.jumpTimer -= Time.deltaTime;
-	}
+    }
 
 	void FixedUpdate()
 	{
@@ -242,13 +286,15 @@ public class PlayerController : MonoBehaviour {
 		{
 			m_GroundNormal = hitInfo.normal;
 			m_IsGrounded = true;
+            anim.SetBool ("onGround", true);
             abilitySetting.floatCharges = abilitySetting.maxFloatCharges;
 //			cameraControl.position.targetPosOffset = new Vector3 (0, +2, 0);
 		}
 		else
 		{
 			m_IsGrounded = false;
-			m_GroundNormal = Vector3.up;
+            anim.SetBool("onGround", false);
+            m_GroundNormal = Vector3.up;
 //			cameraControl.position.targetPosOffset = new Vector3 (0, -1, 0);
 		}
 	}
@@ -427,6 +473,7 @@ public class PlayerController : MonoBehaviour {
 		}
 	}
 
+    // Not working as intended
     void SpinWhileMoving()
     {
         this.transform.Translate(0, Random.Range(0, 1), 0);
@@ -516,14 +563,14 @@ public class PlayerController : MonoBehaviour {
 		else if (jumpInput == 0 && (m_IsGrounded || Grounded())) 
 		{
 			//zero out our velocity.y
-			anim.SetBool ("onGround", true);
+//			anim.SetBool ("onGround", true);
 			velocity.y = 0;
 			moveSetting.timeSinceGrounded = 0;
 		} 
 		else 
 		{
 			//decrease velocity.y
-			anim.SetBool ("onGround", false);
+//			anim.SetBool ("onGround", false);
 			velocity.y -= physSetting.downAccel;
 			moveSetting.timeSinceGrounded += Time.deltaTime;
 			if (velocity.y <= -physSetting.maxDownAccel && m_IsCloseToGround) 
@@ -565,7 +612,8 @@ public class PlayerController : MonoBehaviour {
                 source.volume = Random.Range(0.06f, 0.14f);
                 source.PlayOneShot(soundSetting.jumpSound, 0.5f);
             }
-            anim.SetBool ("onGround", false);
+            anim.SetTrigger("jump");
+//            anim.SetBool("onGround", false);
             soundSetting.jumpTimer = 0.1f;
             velocity.y = moveSetting.jumpVel + (moveSetting.forwardVel / 12);
 			moveSetting.timeSinceGrounded = 100; //100 is arbitrary, just so can't jump again at the top of jump arc
@@ -610,7 +658,7 @@ public class PlayerController : MonoBehaviour {
 		if (m_IsGrounded && Input.GetButton (inputSetting.FLOAT_AND_STOP_BUTTON))
         {
 			velocity.x = velocity.y = velocity.z = 0;
-            moveSetting.forwardVel += moveSetting.accel * 2 * Time.deltaTime;
+            moveSetting.forwardVel += moveSetting.accel * 3 * Time.deltaTime;
         }
 	}
 

@@ -164,7 +164,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000012164899606}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -22}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4000011205691012}
@@ -378,7 +378,7 @@ AudioSource:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000012164899606}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 243000013064505184, guid: 7945f795f97ae7943a78e247c7272e50,
     type: 2}
@@ -460,7 +460,7 @@ Animator:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000012164899606}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 7719c239644fc4f4caeac913b53feca4, type: 2}
   m_CullingMode: 0
@@ -549,19 +549,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3f27e806aba20a49afa79dbe6422a37, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameType: 0
+  gameType: 2
   playerCamera: 0
   moveSetting:
     startForwardVel: 12
     forwardVel: 12
     rotateVel: 50
     accel: 3
-    maxForwardVel: 50
+    maxForwardVel: 30
     isMoving: 0
     facingBackward: 0
     jumpVel: 20
     timeSinceGrounded: 0
-    offsetPosition: {x: 0, y: 5, z: 0}
+    offsetPosition: {x: 0, y: 0, z: 0}
     sphereRadius: 0.55
     ground:
       serializedVersion: 2
@@ -576,7 +576,7 @@ MonoBehaviour:
       serializedVersion: 2
       m_Bits: 35841
   physSetting:
-    downAccel: 0.75
+    downAccel: 1
     maxDownAccel: 50
     HoldPosition: {fileID: 4000013614727750}
     BigHoldPosition: {fileID: 4000011000485412}
@@ -593,6 +593,7 @@ MonoBehaviour:
     SPEED_BOOST_BUTTON: Fire3
   soundSetting:
     jumpSound: {fileID: 8300000, guid: d4b1852876c012440aaa99d1a5a0e0ac, type: 3}
+    jumpTimer: 0
   abilitySetting:
     ableToJump: 1
     ableToLiftSmall: 1
@@ -689,7 +690,7 @@ ParticleSystem:
   moveWithTransform: 1
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 2
-  randomSeed: 1704109120
+  randomSeed: -2066625823
   InitialModule:
     serializedVersion: 3
     enabled: 1

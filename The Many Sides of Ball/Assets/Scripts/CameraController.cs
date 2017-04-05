@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public enum CAMERA_TYPE
 {
@@ -86,7 +87,49 @@ public class CameraController : MonoBehaviour {
 
 	void Start()
 	{
-		SetCameraTarget (target);
+        #region set Camera Type based on level
+        if (SceneManager.GetActiveScene().name == "L1_1")
+            cameraType = CAMERA_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L1_2")
+            cameraType = CAMERA_TYPE.TOP_DOWN;
+        if (SceneManager.GetActiveScene().name == "L1_3")
+            cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L2_1")
+            cameraType = CAMERA_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L2_2")
+            cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L2_3")
+            cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L3_1")
+            cameraType = CAMERA_TYPE.TOP_DOWN;
+        if (SceneManager.GetActiveScene().name == "L3_2")
+            cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L3_3")
+            cameraType = CAMERA_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L4_1")
+            cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L4_2")
+            cameraType = CAMERA_TYPE.TOP_DOWN;
+        if (SceneManager.GetActiveScene().name == "L5_1")
+            cameraType = CAMERA_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L5_2")
+            cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L5_3")
+            cameraType = CAMERA_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L5_4")
+            cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L6_1")
+            cameraType = CAMERA_TYPE.TOP_DOWN;
+        if (SceneManager.GetActiveScene().name == "L6_2")
+            cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "L6_3")
+            cameraType = CAMERA_TYPE.SIDE_VIEW;
+        if (SceneManager.GetActiveScene().name == "L6_4")
+            cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "Epilogue")
+            cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+        #endregion
+        SetCameraTarget(target);
 
 		vOrbitInput = hOrbitInput = zoomInput = hOrbitSnapInput = mouseOrbitInput = vMouseOrbitInput = 0;
 
@@ -302,7 +345,50 @@ public class CameraController : MonoBehaviour {
 
 		public void Initialize(Camera cam)
 		{
-			camera = cam;
+            #region set Camera Type based on level
+            if (SceneManager.GetActiveScene().name == "L1_1")
+                cameraType = CAMERA_TYPE.SIDE_VIEW;
+            if (SceneManager.GetActiveScene().name == "L1_2")
+                cameraType = CAMERA_TYPE.TOP_DOWN;
+            if (SceneManager.GetActiveScene().name == "L1_3")
+                cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+            if (SceneManager.GetActiveScene().name == "L2_1")
+                cameraType = CAMERA_TYPE.SIDE_VIEW;
+            if (SceneManager.GetActiveScene().name == "L2_2")
+                cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+            if (SceneManager.GetActiveScene().name == "L2_3")
+                cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+            if (SceneManager.GetActiveScene().name == "L3_1")
+                cameraType = CAMERA_TYPE.TOP_DOWN;
+            if (SceneManager.GetActiveScene().name == "L3_2")
+                cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+            if (SceneManager.GetActiveScene().name == "L3_3")
+                cameraType = CAMERA_TYPE.SIDE_VIEW;
+            if (SceneManager.GetActiveScene().name == "L4_1")
+                cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+            if (SceneManager.GetActiveScene().name == "L4_2")
+                cameraType = CAMERA_TYPE.TOP_DOWN;
+            if (SceneManager.GetActiveScene().name == "L5_1")
+                cameraType = CAMERA_TYPE.SIDE_VIEW;
+            if (SceneManager.GetActiveScene().name == "L5_2")
+                cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+            if (SceneManager.GetActiveScene().name == "L5_3")
+                cameraType = CAMERA_TYPE.SIDE_VIEW;
+            if (SceneManager.GetActiveScene().name == "L5_4")
+                cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+            if (SceneManager.GetActiveScene().name == "L6_1")
+                cameraType = CAMERA_TYPE.TOP_DOWN;
+            if (SceneManager.GetActiveScene().name == "L6_2")
+                cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+            if (SceneManager.GetActiveScene().name == "L6_3")
+                cameraType = CAMERA_TYPE.SIDE_VIEW;
+            if (SceneManager.GetActiveScene().name == "L6_4")
+                cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+            if (SceneManager.GetActiveScene().name == "Epilogue")
+                cameraType = CAMERA_TYPE.THIRD_PERSON_FOLLOW;
+            #endregion
+
+            camera = cam;
 			adjustedCameraClipPoints = new Vector3[5];
 			desiredCameraClipPoints = new Vector3[5];
 		}
