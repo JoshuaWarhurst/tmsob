@@ -8,36 +8,35 @@ public class PauseScript : MonoBehaviour {
 
 	private CollectiblesV2 collect;
 
-//	AudioSource audio;
+    public string PAUSE_MENU_BUTTON = "Cancel";
 
-	void Start ()
+    void Start ()
 	{
 		collect = GameObject.Find ("GM").GetComponent<CollectiblesV2> ();
-//		audio = GetComponent<AudioSource> ();
-	}
+    }
 
 	void Update () 
 	{
-		if (Input.GetKeyDown(KeyCode.P))
+		if (Input.GetButtonDown(PAUSE_MENU_BUTTON))
 		{
 			TogglePauseMenu();
-			if (pauseScreenUI.activeSelf) 
-			{
-				//stop time
-				Time.timeScale = 0;
-//				audio.pitch = 0.95f;
-				collect.SetPauseMenuText ();
-			} 
-			else 
-			{
-				//time flows normally while out of pause menu
-				Time.timeScale = 1;
-//				audio.pitch = 1f;
-			}
 		}
-	}
+        if (pauseScreenUI.activeSelf)
+        {
+            //stop time
+            Time.timeScale = 0;
+            MusicMaster.musicMaster.backgroundMusic.volume -= 0.3f;
+            collect.SetPauseMenuText();
+        }
+        else
+        {
+            //time flows normally while out of pause menu
+            Time.timeScale = 1;
+            MusicMaster.musicMaster.backgroundMusic.volume += 0.3f;
+        }
+    }
 
-	void TogglePauseMenu()
+	public void TogglePauseMenu()
 	{
 		pauseScreenUI.SetActive (!pauseScreenUI.activeSelf);
 	}

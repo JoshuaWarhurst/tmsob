@@ -6,10 +6,16 @@ using UnityEngine.UI;
 public class LocalizedTextMesh : MonoBehaviour {
 
     public string key;
+    public TextMesh textMesh;
 
     void Start ()
     {
         TextMesh textMesh = GetComponent<TextMesh>();
+//        textMesh.text = LocalizationManager.instance.GetLocalizedValue(key);
+    }
+
+    void Update()
+    {
         textMesh.text = LocalizationManager.instance.GetLocalizedValue(key);
     }
 }

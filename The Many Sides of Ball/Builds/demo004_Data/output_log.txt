@@ -1,0 +1,2769 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R5 M335 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   16.200.2001.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\Triangle.dll (this message is harmless)
+Loading C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jwcwa\Documents\GitHub\tmsob\The Many Sides of Ball\Builds\demo004_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.300937 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2b5c -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.216686 ms
+Level Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Opening 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Single
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 989.
+Total: 0.434962 ms (FindLiveObjects: 0.045432 ms CreateObjectMapping: 0.028444 ms MarkObjects: 0.318419 ms  DeleteObjects: 0.041876 ms)
+
+Data loaded. Dictionary contains: 339 entries.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.741925 ms
+Level Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+L1_1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Single
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 1341.
+Total: 2.421726 ms (FindLiveObjects: 0.106271 ms CreateObjectMapping: 0.064395 ms MarkObjects: 0.555061 ms  DeleteObjects: 1.695208 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.948542 ms
+Level Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+L1_2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Single
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1334.
+Total: 2.163356 ms (FindLiveObjects: 0.103506 ms CreateObjectMapping: 0.047802 ms MarkObjects: 0.366221 ms  DeleteObjects: 1.645035 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.003455 ms
+Level Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+L1_3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Single
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2670.
+Total: 2.006516 ms (FindLiveObjects: 0.201481 ms CreateObjectMapping: 0.080592 ms MarkObjects: 0.630122 ms  DeleteObjects: 1.094320 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.736689 ms
+Level Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+L2_1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Single
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 2589.
+Total: 5.359008 ms (FindLiveObjects: 0.139456 ms CreateObjectMapping: 0.047802 ms MarkObjects: 0.519900 ms  DeleteObjects: 4.650662 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.137279 ms
+Level Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_DEMO_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Single
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 596.
+Total: 6.898957 ms (FindLiveObjects: 0.110222 ms CreateObjectMapping: 0.144592 ms MarkObjects: 0.681876 ms  DeleteObjects: 5.960686 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VoiceOverMaster.EndSubtitle () [0x00000] in <filename unknown>:0 
+  at VoiceOverMaster.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.971456 ms
+Level Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_DEMO_Main Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Single
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 796.
+Total: 1.524146 ms (FindLiveObjects: 0.132740 ms CreateObjectMapping: 0.109036 ms MarkObjects: 1.023604 ms  DeleteObjects: 0.256789 ms)
+

@@ -51,4 +51,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10c0859226b77f24baa81c7cc61e77f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: localization_en3.json
+  key: localization_en.json

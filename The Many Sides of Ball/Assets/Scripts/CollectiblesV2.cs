@@ -4,7 +4,7 @@ using System.Collections;
 
 public class CollectiblesV2 : MonoBehaviour {
 
-	public string areaName;
+//	public string areaName;
 
 	[HideInInspector]
 	public int hardCount;
@@ -13,7 +13,7 @@ public class CollectiblesV2 : MonoBehaviour {
 	[System.Serializable]
 	public class TextUI
 	{
-		public Text areaNameText;
+//		public Text areaNameText;
 		public Text timer;
 
 //		public Text hardName;
@@ -45,7 +45,7 @@ public class CollectiblesV2 : MonoBehaviour {
 	public void SetPauseMenuText()
 	{
 		textUI.timer.text = "Time: " + string.Format ("{0:00} : {1:00}", minutes, seconds);
-		textUI.areaNameText.text = areaName.ToString ();
+//		textUI.areaNameText.text = areaName.ToString ();
 		textUI.hardAmount.text = hardCount.ToString() + " / " + maxHC.ToString();
 
 		if (hardCount == maxHC) 

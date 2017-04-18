@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class GeneralRestart : MonoBehaviour {
@@ -11,7 +12,10 @@ public class GeneralRestart : MonoBehaviour {
 
 	void Update()
 	{
-		RestartCommand ();
+        if (Input.GetKeyDown("k"))
+        {
+            RestartCommand();
+        }
 		if (waiting) 
 		{
 			waitTime -= Time.deltaTime;	
@@ -27,14 +31,11 @@ public class GeneralRestart : MonoBehaviour {
 		}
 	}
 
-	void RestartCommand()
+	public void RestartCommand()
 	{
-		if (Input.GetKeyDown ("k")) 
-		{
 			GameObject.Find ("GM").GetComponent<Fading> ().fadeDir = 1;
 			waiting = true;
 			waitTime = 2f;
-		}
 	}
 
 	void Restart()

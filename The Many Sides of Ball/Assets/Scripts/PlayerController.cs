@@ -170,6 +170,12 @@ public class PlayerController : MonoBehaviour {
             gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
         if (SceneManager.GetActiveScene().name == "Epilogue")
             gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "P1_1")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "P1_2")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
+        if (SceneManager.GetActiveScene().name == "P1_3")
+            gameType = GAME_TYPE.THIRD_PERSON_FOLLOW;
         #endregion
 
         targetRotation = transform.rotation;
@@ -235,7 +241,6 @@ public class PlayerController : MonoBehaviour {
 
 	void FixedUpdate()
 	{
-//        transform.localScale = new Vector3 (1, 1, 1);
 		CheckGroundStatus ();
         CheckCloseGroundStatus();
 //		CheckSidesForCamera (); NEEDS WORK

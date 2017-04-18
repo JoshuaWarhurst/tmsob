@@ -60,6 +60,12 @@ public class MusicMaster : MonoBehaviour {
     {
         if (SceneManager.GetActiveScene().name == "_Splash Screen")
             NoMusic();
+        if (SceneManager.GetActiveScene().name == "_DEMO_Main Menu")
+            LoadMainMenu();
+        if (SceneManager.GetActiveScene().name == "_Main Menu")
+            LoadMainMenu();
+        if (SceneManager.GetActiveScene().name == "_World Map")
+            LoadMainMenu();
         if (SceneManager.GetActiveScene().name == "Opening 2")
             LoadLevel1();
         if (SceneManager.GetActiveScene().name == "L1_1")
@@ -79,6 +85,19 @@ public class MusicMaster : MonoBehaviour {
     private void NoMusic()
     {
         backgroundMusic.Stop();
+    }
+
+    private void LoadMainMenu()
+    {
+        if (backgroundMusic.clip != mainMenu)
+        {
+            backgroundMusic.clip = mainMenu;
+            backgroundMusic.Play();
+        }
+        else
+        {
+            return;
+        }
     }
 
     private void LoadLevel1()

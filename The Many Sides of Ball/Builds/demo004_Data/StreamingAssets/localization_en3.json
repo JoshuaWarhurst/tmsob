@@ -1,0 +1,1358 @@
+{"items":[
+  {
+    "key": "***MENU_UI***",
+    "value": ""
+  },
+  {
+    "key": "m_start_button",
+    "value": "Begin"
+  },
+  {
+    "key": "m_continue_button",
+    "value": "Continue"
+  },
+  {
+    "key": "m_settings_button",
+    "value": "Settings"
+  },
+  {
+    "key": "m_quit_button",
+    "value": "Quit"
+  },
+  {
+    "key": "m_master_volume",
+    "value": "Master Volume"
+  },
+  {
+    "key": "m_paused",
+    "value": "PAUSED"
+  },
+  {
+    "key": "m_main_menu",
+    "value": "Main Menu"
+  },
+  {
+    "key": "***TITLES***",
+    "value": ""
+  },
+  {
+    "key": "C1",
+    "value": "Chapter I"
+  },
+  {
+    "key": "C2",
+    "value": "Chapter II"
+  },
+  {
+    "key": "C3",
+    "value": "Chapter III"
+  },
+  {
+    "key": "C4",
+    "value": "Chapter IV"
+  },
+  {
+    "key": "C5",
+    "value": "Chapter V"
+  },
+  {
+    "key": "C6",
+    "value": "Chapter VI"
+  },
+  {
+    "key": "C7",
+    "value": "Chapter VII"
+  },
+  {
+    "key": "P1",
+    "value": "Part 1"
+  },
+  {
+    "key": "P2",
+    "value": "Part 2"
+  },
+  {
+    "key": "P3",
+    "value": "Part 3"
+  },
+  {
+    "key": "T11",
+    "value": "Odd One Out"
+  },
+  {
+    "key": "T12",
+    "value": "Confusion"
+  },
+  {
+    "key": "T13",
+    "value": "The Road Taken"
+  },
+  {
+    "key": "T21",
+    "value": "End Of The Road"
+  },
+  {
+    "key": "T22",
+    "value": "Pure Freedom"
+  },
+  {
+    "key": "T23",
+    "value": "The Floating World"
+  },
+  {
+    "key": "T31",
+    "value": "Where The Wild Wind Blows"
+  },
+  {
+    "key": "T32",
+    "value": "Ask Me Where I'm A Local"
+  },
+  {
+    "key": "T33",
+    "value": "Between Two Worlds"
+  },
+  {
+    "key": "T41",
+    "value": "The Exiled And Forgotten"
+  },
+  {
+    "key": "T42",
+    "value": "Moving Up In The World"
+  },
+  {
+    "key": "T43",
+    "value": "NA"
+  },
+  {
+    "key": "T51",
+    "value": "Above The Clouds"
+  },
+  {
+    "key": "T52",
+    "value": "Castle In The Sky"
+  },
+  {
+    "key": "T53",
+    "value": "The Entrusted"
+  },
+  {
+    "key": "T61",
+    "value": "Finally"
+  },
+  {
+    "key": "T62",
+    "value": "All There Is"
+  },
+  {
+    "key": "T63",
+    "value": "Love"
+  },
+  {
+    "key": "T71",
+    "value": "Where One Story Ends"
+  },
+  {
+    "key": "***OPENING***",
+    "value": ""
+  },
+  {
+    "key": "O1",
+    "value": "Now where should we begin?"
+  },
+  {
+    "key": "O2",
+    "value": "At the beginning? Like, the very beginning? When Tessa created the world?"
+  },
+  {
+    "key": "O3",
+    "value": "No, that's a bit too far back."
+  },
+  {
+    "key": "O4",
+    "value": "Instead, we'll begin where many stories begin, with a character."
+  },
+  {
+    "key": "O5",
+    "value": "Ball."
+  },
+  {
+    "key": "O6",
+    "value": "He was abandoned. Left to us in the dead of night. His parents gone."
+  },
+  {
+    "key": "O7",
+    "value": "Typical of Circles, you know. No responsibility."
+  },
+  {
+    "key": "O8",
+    "value": "So we took him in and raised him."
+  },
+  {
+    "key": "O9",
+    "value": "For years, we gave him everything our wonderful society had to offer."
+  },
+  {
+    "key": "O10",
+    "value": "A loving foster family. A school. A good life."
+  },
+  {
+    "key": "O11",
+    "value": "And how did he repay us? Did he become a productive member of society?"
+  },
+  {
+    "key": "O12",
+    "value": "No!"
+  },
+  {
+    "key": "O13",
+    "value": "He disappeared!"
+  },
+  {
+    "key": "***LEVEL1_1***",
+    "value": ""
+  },
+  {
+    "key": "11_1",
+    "value": "Ball left Los Angles suddenly. Didn't come to school one day."
+  },
+  {
+    "key": "11_2",
+    "value": "Wasn't content, for whatever reason."
+  },
+  {
+    "key": "11_3",
+    "value": "Ball bounced his way out. No obstacle could stop him."
+  },
+  {
+    "key": "11_4",
+    "value": "He could scale many walls. A cube skill, but one Ball learned to fit in."
+  },
+  {
+    "key": "11_5",
+    "value": "For all the good that did."
+  },
+  {
+    "key": "11_6",
+    "value": "Ball had only one thing on his tiny, stupid mind. To leave. To run away."
+  },
+  {
+    "key": "11_H",
+    "value": "Ah, the Hidden Shape. I was surprised Ball found it. He never struck me as all that clever."
+  },
+  {
+    "key": "***LEVEL1_2***",
+    "value": ""
+  },
+  {
+    "key": "12_1",
+    "value": "But the real question is why. It didn't make sense."
+  },
+  {
+    "key": "12_2",
+    "value": "Cubes built this paradise, and yet Ball wanted nothing to do with it."
+  },
+  {
+    "key": "12_3",
+    "value": "Maybe that was it. Raised by cubes, yes. But Ball was never really one of us."
+  },
+  {
+    "key": "12_4",
+    "value": "He always stood out. It wasn't just his appearance. He made himself stand out."
+  },
+  {
+    "key": "12_5",
+    "value": "Even with all of our help, Ball was never good at fitting in."
+  },
+  {
+    "key": "12_6",
+    "value": "Well, no use questioning the motives of a madman. There are far more productive ways to spend my time."
+  },
+  {
+    "key": "12_H",
+    "value": "I thought that shape was hidden pretty well. I suppose I could be wrong, once in a while."
+  },
+  {
+    "key": "***LEVEL1_3***",
+    "value": ""
+  },
+  {
+    "key": "13_1",
+    "value": "I'm glad he left, you know. All he ever did was burden us."
+  },
+  {
+    "key": "13_2",
+    "value": "Go on, Ball. Get out of here. Never return."
+  },
+  {
+    "key": "13_3",
+    "value": "Nobody wanted you. Nobody liked you."
+  },
+  {
+    "key": "13_4",
+    "value": "Los Angles was a city for Cubes anyway. Not some Circle like you."
+  },
+  {
+    "key": "13_5",
+    "value": "*ahem* Sorry, I was just talking to myself."
+  },
+  {
+    "key": "13_6",
+    "value": "Those dirty Circles who left Ball on our doorstop. Who pushed their burden on us."
+  },
+  {
+    "key": "13_7",
+    "value": "You know, it was never his home anyway. He didn't belong here."
+  },
+  {
+    "key": "13_8",
+    "value": "In fact, I suppose it was a favor of his, in some way. Leaving."
+  },
+  {
+    "key": "13_9",
+    "value": "Where was Ball going, you ask?"
+  },
+  {
+    "key": "13_10",
+    "value": "Have you heard of Pyramid?"
+  },
+  {
+    "key": "13_11",
+    "value": "Land of the Triangles. Home of the laziest shapes you've ever met."
+  },
+  {
+    "key": "13_12",
+    "value": "All talk, no action, those ones. Knowledge first, work second."
+  },
+  {
+    "key": "13_13",
+    "value": "Why Ball sought them out, I'll never know."
+  },
+  {
+    "key": "13_14",
+    "value": "But there he went. Gone. Never to return."
+  },
+  {
+    "key": "13_15",
+    "value": "Thank Tessa, he's gone!"
+  },
+  {
+    "key": "13_16",
+    "value": "Ball would receive help no longer. He was on his own."
+  },
+  {
+    "key": "",
+    "value": ""
+  },
+  {
+    "key": "13_H",
+    "value": "It was admittedly impressive. To find this hidden shape. Or perhaps just lucky."
+  },
+  {
+    "key": "***LEVEL2_1***",
+    "value": ""
+  },
+  {
+    "key": "21_1",
+    "value": "The road was ending, and with it, the end of Ball's subjugation."
+  },
+  {
+    "key": "21_2",
+    "value": "It was the cubes that had made life difficult for Ball. Their rules and attitudes had been the prime force keeping Ball down."
+  },
+  {
+    "key": "21_3",
+    "value": "How Ball managed to break free of those bonds, I'll never know."
+  },
+  {
+    "key": "21_4",
+    "value": "But, I'm glad it happened."
+  },
+  {
+    "key": "21_5",
+    "value": "Oh, me?"
+  },
+  {
+    "key": "21_6",
+    "value": "My name is Simone Plex. Call me \"Sim\"."
+  },
+  {
+    "key": "21_7",
+    "value": "I'm a teacher in Pyramid. And one, of many, who showed Ball the way."
+  },
+  {
+    "key": "21_8",
+    "value": "Though there are no rulebooks for wandering journeys."
+  },
+  {
+    "key": "21_9",
+    "value": "The Eastern Road of Los Angles was abandoned mid-construction. It's atypical. Cubes tend to follow through with their actions."
+  },
+  {
+    "key": "21_10",
+    "value": "Yet their society has become ever more insular. Closing up in order to curb the randomness of the outside world."
+  },
+  {
+    "key": "21_11",
+    "value": "Ball made her way to the desert, steadfast, unperturbed by the situation she found herself in."
+  },
+  {
+    "key": "21_12",
+    "value": "Why do I say \"her\" and \"she\" instead of \"him\" and \"he\"? Well who was the one saying those things?"
+  },
+  {
+    "key": "21_13",
+    "value": "It doesn't really matter what words you use for Ball's gender. Shapes don't have distinctions for these things."
+  },
+  {
+    "key": "21_14",
+    "value": "Use whatever word you want. I'll follow the same policy. I don't think Ball will mind either way."
+  },
+  {
+    "key": "21_15",
+    "value": "Ball worried about her decision. Was it a good idea to leave the city? She had never been out of that cage."
+  },
+  {
+    "key": "21_16",
+    "value": "True, the desert was wonderful. A first. But so was the lack of direction."
+  },
+  {
+    "key": "21_17",
+    "value": "This freedom made Ball... faster. Every time Ball stopped, she slowed. But when she began moving, nothing could slow her down."
+  },
+  {
+    "key": "21_H",
+    "value": "Ball found an object often referred to as a Hidden Shape."
+  },
+  {
+    "key": "***LEVEL2_2***",
+    "value": ""
+  },
+  {
+    "key": "22_1",
+    "value": "But this freedom became suffocating for Ball."
+  },
+  {
+    "key": "22_2",
+    "value": "After all the rules and hard lines of Cube society, Ball felt that being out here was wrong."
+  },
+  {
+    "key": "22_3",
+    "value": "Where to go? What to do?"
+  },
+  {
+    "key": "22_4",
+    "value": "These things had been defined in Los Angles. Order was not questioned, only assumed."
+  },
+  {
+    "key": "22_5",
+    "value": "And now, without order, with pure freedom, Ball found that her old life was calling her. Asking her what she was doing here. In this land of nothing, without borders."
+  },
+  {
+    "key": "22_6",
+    "value": "Ball panicked and realized that she didn't know where she was."
+  },
+  {
+    "key": "22_7",
+    "value": "It was then that Ball saw Pyramid in the distance."
+  },
+  {
+    "key": "22_8",
+    "value": "Ball happened upon what looked like the road leading to Pyramid, and followed it."
+  },
+  {
+    "key": "22_9",
+    "value": "And there it stood, like a star, guiding her."
+  },
+  {
+    "key": "***LEVEL2_3***",
+    "value": ""
+  },
+  {
+    "key": "23_1",
+    "value": "Pyramid. One of the wonders of the world, if such categorization benefits your understanding."
+  },
+  {
+    "key": "23_2",
+    "value": "To us Tetras, this place is home. Cubes have their Los Angles, while we have Pyramid."
+  },
+  {
+    "key": "23_3",
+    "value": "I waited for Ball on the second ring."
+  },
+  {
+    "key": "23_4",
+    "value": "I was glad to be able to introduce this wonder to Ball."
+  },
+  {
+    "key": "23_5",
+    "value": "Ball was very inquisitive, and seemed eager to learn."
+  },
+  {
+    "key": "23_6",
+    "value": "Pyramid is a rather ancient city. It began construction more than four millennia ago."
+  },
+  {
+    "key": "23_7",
+    "value": "It's in fact the oldest Pyra, which explains why it isn't suspended entirely in the air."
+  },
+  {
+    "key": "23_8",
+    "value": "Depending on your sources, you may come across information stating that our Pyralower is even older."
+  },
+  {
+    "key": "23_9",
+    "value": "But, I think you'll find that the evidence doesn't support that theory."
+  },
+  {
+    "key": "23_10",
+    "value": "Though I... dare not rule it out."
+  },
+  {
+    "key": "23_11",
+    "value": "The eastern side of Pyramid served as the gathering and living spaces for tetras. Here was a place for socializing and learning."
+  },
+  {
+    "key": "23_12",
+    "value": "Tetras often came to Pyramid to seek knowledge. While Pyraupper is more of a government city, Pyramid is here for those who wish to spend their time understanding the essence of the world, rather than rule over it."
+  },
+  {
+    "key": "23_13",
+    "value": "Those in Los Angles miscategorize our behavior out here as lethargic. As if all Tetras sit around and do nothing."
+  },
+  {
+    "key": "23_14",
+    "value": "On the contrary, we spent a great deal of time disseminating the facts of the world."
+  },
+  {
+    "key": "23_15",
+    "value": "Even if thinking is somehow… “doing nothing”… Were cubes to see the Tetras toiling away in Pyralower, I think they'd choke on their own misguided views."
+  },
+  {
+    "key": "23_16",
+    "value": "Ball had some difficulty traversing the space. These weren't the simple roads of Los Angles."
+  },
+  {
+    "key": "23_17",
+    "value": "Suspended, moving platforms had been necessary due to the rarity of lemonstone."
+  },
+  {
+    "key": "23_18",
+    "value": "Lemonstone being the main building material for Pyramid."
+  },
+  {
+    "key": "23_19",
+    "value": "The ancient Tetras nearly exhausted their supply erecting the central body."
+  },
+  {
+    "key": "23_20",
+    "value": "So, with their remaining supply, they built smaller platforms to transport passengers longer distances, thereby needing fewer blocks of lemonstone to complete the passageways."
+  },
+  {
+    "key": "23_21",
+    "value": "Today, lemonstone can be synthesized with ease. But the legacy of that scarcity remains in this city's architecture."
+  },
+  {
+    "key": "23_22",
+    "value": "Some of the platforms were in dire need of repair, of course, and were of no use to anyone."
+  },
+  {
+    "key": "23_23",
+    "value": "But as most Tetras knew how to float, it wasn't a huge problem."
+  },
+  {
+    "key": "23_24",
+    "value": "That, and few Tetras want to bother with repairs. No sense wasting time with that when there were new things to discover."
+  },
+  {
+    "key": "23_25",
+    "value": "The western side of Pyramid once served as something of an energy-production factory."
+  },
+  {
+    "key": "23_26",
+    "value": "The constant motion of the platforms generated a large amount of power, able to light the place during the dark period."
+  },
+  {
+    "key": "23_27",
+    "value": "One of my colleagues believes this has something to do with... magnets. I'm not entirely aware myself."
+  },
+  {
+    "key": "23_28",
+    "value": "Magnets. How do they work?"
+  },
+  {
+    "key": "23_29",
+    "value": "Best return to my studies."
+  },
+  {
+    "key": "23_30",
+    "value": "This path around the back was actually constructed as a collaborative effort with cubes a few centuries ago, when Los Angles was still but a small village."
+  },
+  {
+    "key": "23_31",
+    "value": "Back in those days, cubes came to visit often."
+  },
+  {
+    "key": "23_32",
+    "value": "Nowadays, not so much."
+  },
+  {
+    "key": "23_33",
+    "value": "They seem more content building their city higher and higher rather than coming here to learn."
+  },
+  {
+    "key": "23_34",
+    "value": "Seeing Ball struggle, I attempted to teach her how to float."
+  },
+  {
+    "key": "23_35",
+    "value": "We had a good time together, Ball and I. Would have befitted a montage."
+  },
+  {
+    "key": "23_36",
+    "value": "The way Ball learned, well, it was different than that of a Tetra. She asked more questions. She expected me to know more than I did. I could tell she was frustrated."
+  },
+  {
+    "key": "23_37",
+    "value": "But there was a glimmer in her eye. Hope? Perhaps because failure was not looked down upon quite so harshly here. I'm not sure."
+  },
+  {
+    "key": "23_38",
+    "value": "With her newfound knowledge of floating, Ball could access the top of Pyramid without much trouble."
+  },
+  {
+    "key": "23_39",
+    "value": "Ball was glad to be able to float. Yet I was honestly shocked at how quickly Ball learned."
+  },
+  {
+    "key": "23_40",
+    "value": "Few spheres could pick up an ability so quickly."
+  },
+  {
+    "key": "23_41",
+    "value": "Traditional knowledge says that floating was something unique to Tetras."
+  },
+  {
+    "key": "23_42",
+    "value": "Modern knowledge notes that other shapes can learn to float, but that their ability can't approach a Tetra's."
+  },
+  {
+    "key": "23_43",
+    "value": "Seeing Ball, however, made me return to my studies. Perhaps there was more to this than we knew."
+  },
+  {
+    "key": "23_44",
+    "value": "I met Ball again at the top."
+  },
+  {
+    "key": "23_45",
+    "value": "Ball mentioned that she was looking for her parents. I, of course, had no knowledge on this subject."
+  },
+  {
+    "key": "23_46",
+    "value": "However, there was one who may know the answer."
+  },
+  {
+    "key": "23_47",
+    "value": "The Entrusted. The leader of the Tetras. Seer and knower of all."
+  },
+  {
+    "key": "23_48",
+    "value": "But the Entrusted resided in Pyraupper, and that could be a difficult journey for a non-Tetra."
+  },
+  {
+    "key": "23_49",
+    "value": "Ball needed to make her way through the Rolling Plains, up the Prettyhigh Steppe, and then across the Suspended Bridge, where one fall could spell doom."
+  },
+  {
+    "key": "23_50",
+    "value": "This didn't seem to dissuade Ball. The knowledge that someone out there could help seemed to brighten her mood, though I couldn't say for sure."
+  },
+  {
+    "key": "23_51",
+    "value": "I said goodbye to Ball, content with what I'd learned."
+  },
+  {
+    "key": "23_52",
+    "value": "Broken pathways lay strewn about the ground. They've been there since I was but a child."
+  },
+  {
+    "key": "23_53",
+    "value": "You don't think much about your surroundings until strangers comment."
+  },
+  {
+    "key": "23_54",
+    "value": "Tetras often came here to dance. Disco. Boogie. Waltz."
+  },
+  {
+    "key": "23_55",
+    "value": "I'm pretty good at line dancing myself. It's a style in which you jump up and down on a line. Very fun."
+  },
+  {
+    "key": "23_56",
+    "value": "Don't get me started on square dancing though."
+  },
+  {
+    "key": "23_57",
+    "value": "What a load of trash."
+  },
+  {
+    "key": "23_58",
+    "value": "These red objects were once active. Sometimes all it takes is a small collision to get them going again."
+  },
+  {
+    "key": "23_59",
+    "value": "The red jets could toss someone skyward. Once activated, of course."
+  },
+  {
+    "key": "23_60",
+    "value": "Ah, some jets. Waiting to be made active."
+  },
+  {
+    "key": "23_61",
+    "value": "Tetras had no need for these machines. But, perhaps Ball could find some use."
+  },
+  {
+    "key": "23_62",
+    "value": "The invisible path. I'm surprised Ball found it. Then again, that sphere was always full of secrets."
+  },
+  {
+    "key": "23_63",
+    "value": "Ball could roll around in the desert for hours. I never understood what she enjoyed so much about it."
+  },
+  {
+    "key": "23_H",
+    "value": "Ball often seemed preoccupied with the collection of hidden shapes. Perhaps sphere minds are different like that."
+  },
+  {
+    "key": "***LEVEL3_1***",
+    "value": ""
+  },
+  {
+    "key": "31_1",
+    "value": "Ah, Ball. Yeah, I 'member when 'e came here. Wasn't too long ago."
+  },
+  {
+    "key": "31_2",
+    "value": "Came from th' east. From the triangle desert."
+  },
+  {
+    "key": "31_3",
+    "value": "Hard t' miss 'im. Th' way 'e resisted th' wind."
+  },
+  {
+    "key": "31_4",
+    "value": "Ya c'n call me Marui. I'm a sphere from th' Rollin' Plains. It's my home, I s'pose. Lived here my whole life."
+  },
+  {
+    "key": "31_5",
+    "value": "Been t' th' Longtimeno Sea once. Saw a friend off. 'Ts 'bout it."
+  },
+  {
+    "key": "31_6",
+    "value": "Else I been here. Where the wind blows."
+  },
+  {
+    "key": "31_7",
+    "value": "Ball? Yeah, what abou'im?"
+  },
+  {
+    "key": "31_8",
+    "value": "Ya wanna know what 'e thought abou'us?"
+  },
+  {
+    "key": "31_9",
+    "value": "He was… cor-di-al. From a distance, anyways."
+  },
+  {
+    "key": "31_10",
+    "value": "He ain't never spit on no one, but he didn't want ta make friends, ya know?"
+  },
+  {
+    "key": "31_11",
+    "value": "Ball fell inta th' tar pits once or twice, I hear. On the way over. Don't know 'ow 'e got outta 'em."
+  },
+  {
+    "key": "31_12",
+    "value": "Perseverance? Guess tha' cou'a done it."
+  },
+  {
+    "key": "31_H",
+    "value": "I guess Ball found a Hidden Shape on 'is way. Fine with me that 'e takes it, ya know?"
+  },
+  {
+    "key": "***LEVEL3_2***",
+    "value": ""
+  },
+  {
+    "key": "32_1",
+    "value": "Th' white winds brough' him here. T' th' sphere homeland."
+  },
+  {
+    "key": "32_2",
+    "value": "Not for all tha' long. Just long enough."
+  },
+  {
+    "key": "32_3",
+    "value": "Apparently was makin' a journey to the northern mountains."
+  },
+  {
+    "key": "32_4",
+    "value": "No reason to go there."
+  },
+  {
+    "key": "32_5",
+    "value": "No reason not to go either, I s'pose."
+  },
+  {
+    "key": "32_6",
+    "value": "Th' blue object was one of our neeto-things. Tha \"Henshok\"."
+  },
+  {
+    "key": "32_7",
+    "value": "Switched yer color around."
+  },
+  {
+    "key": "32_8",
+    "value": "Blue ones t' blue."
+  },
+  {
+    "key": "32_9",
+    "value": "Red ones t' red."
+  },
+  {
+    "key": "32_10",
+    "value": "We had lots of them, so, ya know, Ball could use 'em as 'e pleased."
+  },
+  {
+    "key": "32_11",
+    "value": "Word came around quick abou' tha' Ball. 'E moved funny. Said things tha' ya never 'ear said."
+  },
+  {
+    "key": "32_12",
+    "value": "E had this… uh… look on his face. Like 'e ain't never seen 'nother sphere b'fore."
+  },
+  {
+    "key": "32_13",
+    "value": "But we welcomed 'im nonetheless. Seemed nice as 'e was odd."
+  },
+  {
+    "key": "32_14",
+    "value": "He would roam with a little more speed an' direction than we were used ta."
+  },
+  {
+    "key": "32_15",
+    "value": "Sure, spheres're roamers. But we ain't usually roamin' with such intensity."
+  },
+  {
+    "key": "32_16",
+    "value": "Slow down. Smell the grass. Savor th' wind on yer sides, ya know?"
+  },
+  {
+    "key": "32_17",
+    "value": "Bargin' in on homes. Stayin' fer a second, then leavin'."
+  },
+  {
+    "key": "32_18",
+    "value": "E was free to go as 'e wished, but 'e didn't even seem like 'e knew where 'e was goin'!"
+  },
+  {
+    "key": "32_19",
+    "value": "Well, who am I ta judge?"
+  },
+  {
+    "key": "32_20",
+    "value": "I didn't see it firsthand or nothin', but word got 'round that Ball was... abrasive, ya know? Seem like 'e's always lookin' fer a fight."
+  },
+  {
+    "key": "32_21",
+    "value": "Mean little guy, from tha sound of it. Maybe it's jus' 'e was young. Brash. Takin' on th' world."
+  },
+  {
+    "key": "32_22",
+    "value": "I ain't see what everyone was sayin'. Not front of my eyes. But rumors ain't based off nothin', ya know?"
+  },
+  {
+    "key": "32_23",
+    "value": "I dunno why Ball kept lookin' at that goddamned wall. He seemed totally in love with it."
+  },
+  {
+    "key": "32_24",
+    "value": "Didn't 'e understand how much we hated it? Goddamn thing running right through these beautiful lands."
+  },
+  {
+    "key": "32_25",
+    "value": "I dunno what 'e was thinkin'."
+  },
+  {
+    "key": "32_26",
+    "value": "Was 'e a spy? That why you askin'?"
+  },
+  {
+    "key": "32_27",
+    "value": "No? You dunno?"
+  },
+  {
+    "key": "32_28",
+    "value": "Fair enough."
+  },
+  {
+    "key": "32_29",
+    "value": "I tell you what I hear, what I see, but honestly, I got no clue why 'e came here."
+  },
+  {
+    "key": "32_30",
+    "value": "Th' Ring stood in th' middle. Th' \"Wa\"."
+  },
+  {
+    "key": "32_31",
+    "value": "Our symbol, of sorts."
+  },
+  {
+    "key": "32_32",
+    "value": "Not something t'bow down ta, like Los Angles's \"Exton Buildin'\". Just something t'know where ya are and where ya've come from."
+  },
+  {
+    "key": "32_33",
+    "value": "Ball didn't know what t' make of it. So 'e decided to climb it, jus' like a damn square."
+  },
+  {
+    "key": "32_34",
+    "value": "There was nothin' out here. Which is fine with us. More freedom to do with as we please."
+  },
+  {
+    "key": "32_35",
+    "value": "A lot of folks consider openness boring. City-folk often say, \"I need somethin' ta do!"
+  },
+  {
+    "key": "32_36",
+    "value": "But I say, stop a moment. See what life is like before ya knock it."
+  },
+  {
+    "key": "32_37",
+    "value": "Ball didn't want to stop though. Had places to be, I s'pose."
+  },
+  {
+    "key": "32_38",
+    "value": "We 'ave a sayin', \"every sphere is unique\". Tha' extends t' their humble abodes."
+  },
+  {
+    "key": "32_39",
+    "value": "This sphere was a minimalist. Likes keepin' things small, ya know."
+  },
+  {
+    "key": "32_40",
+    "value": "This sphere's house was two layers. Top an' bottom. Prolly t' keep those in-laws out, amirite?"
+  },
+  {
+    "key": "32_41",
+    "value": "Some folks liked uniformity. That's more of a square thing, but eh."
+  },
+  {
+    "key": "32_42",
+    "value": "Honestly prolly what Ball's house'd look like."
+  },
+  {
+    "key": "32_43",
+    "value": "This is a weird one. But who am I to cast judgment?"
+  },
+  {
+    "key": "32_44",
+    "value": "Well, I'll be. Completely hollow. What's with that? Guess they're movin' or somethin'."
+  },
+  {
+    "key": "32_45",
+    "value": "This sphere didn't like platforms. Wanted everythin' sphere-like."
+  },
+  {
+    "key": "32_46",
+    "value": "Whoever kept this house put everythin' on the outside."
+  },
+  {
+    "key": "32_47",
+    "value": "Who's t' say that's not the best way to live?"
+  },
+  {
+    "key": "32_48",
+    "value": "Jus' won't see me doing that, ya hear?"
+  },
+  {
+    "key": "32_49",
+    "value": "At th' top, 'e could see the beauty around 'im. Th' mist and th' clouds were nothin'."
+  },
+  {
+    "key": "32_50",
+    "value": "And 'e saw what he came fer. A path. T'th'north."
+  },
+  {
+    "key": "32_H",
+    "value": "HS: Ball searched far an' wide fer dem hidden shapes. What was 'e usin' 'em fer? Trophies?"
+  },
+  {
+    "key": "***LEVEL3_3***",
+    "value": ""
+  },
+  {
+    "key": "33_1",
+    "value": "E left th' Rollin' Plains. Foun' th' Steppe, it seemed."
+  },
+  {
+    "key": "33_2",
+    "value": "Ya know, wor' on th' grapevine was tha' Ball was from Los Angles. That damned eyesore of a city."
+  },
+  {
+    "key": "33_3",
+    "value": "Th' rumor, if y'll hear it, was that Ball witnessed a su-i-cide. A Cube tha' killed 'imself."
+  },
+  {
+    "key": "33_4",
+    "value": "Failed too many times and lost 'is job 'r somethin'. Not sure."
+  },
+  {
+    "key": "33_5",
+    "value": "But Ball saw it. Right in front of 'im."
+  },
+  {
+    "key": "33_6",
+    "value": "So 'e left. Didn' wan' tha' life fer 'imself."
+  },
+  {
+    "key": "33_7",
+    "value": "Don' blame 'im."
+  },
+  {
+    "key": "33_8",
+    "value": "In spite o' everythin', gotta say I was sad fer 'im. Ball didn' 'ave nothin' more than a direction."
+  },
+  {
+    "key": "33_9",
+    "value": "No home. No family. No friends."
+  },
+  {
+    "key": "33_10",
+    "value": "All alone, out here."
+  },
+  {
+    "key": "33_11",
+    "value": "And with 'is attitude, I think it'll stay tha' way."
+  },
+  {
+    "key": "33_12",
+    "value": "E gets in th' way of 'imself, ya know?"
+  },
+  {
+    "key": "33_13",
+    "value": "Sometimes I wonder if we were too hard on 'im."
+  },
+  {
+    "key": "33_14",
+    "value": "Like, we see a Tetra, we gawk. Always a little impressive to see 'em flyin' an' such."
+  },
+  {
+    "key": "33_15",
+    "value": "A square come here, usually ignored, ya know? Don't wanna mess with 'em."
+  },
+  {
+    "key": "33_16",
+    "value": "A sphere, well, we know all 'em. It was a surprise ta see one we don't know. Didn't really know what ta do."
+  },
+  {
+    "key": "33_17",
+    "value": "End of th' day, in retrospect, I think we were a little cruel to 'im."
+  },
+  {
+    "key": "33_18",
+    "value": "But didn't stop 'im any. Resolute little guy."
+  },
+  {
+    "key": "33_19",
+    "value": "He jus' kep' goin'. Off ta th' Steppe."
+  },
+  {
+    "key": "33_H",
+    "value": "HS: Some say our god Glome put these shapes up 'ere. No idea why though."
+  },
+  {
+    "key": "***LEVEL4_1***",
+    "value": ""
+  },
+  {
+    "key": "41_1",
+    "value": "Ball wandered for some time until he wound up here."
+  },
+  {
+    "key": "41_2",
+    "value": "The Prettyhigh Steppe lay at the end of the Northern Road."
+  },
+  {
+    "key": "41_3",
+    "value": "Ball came to us in search of a way."
+  },
+  {
+    "key": "41_4",
+    "value": "Looking for Pyraupper. Odd request. Most everyone who wanted to go there already knew how."
+  },
+  {
+    "key": "41_5",
+    "value": "I knew, when I first met Ball, that he was like me. Outcast. Couldn't fit in."
+  },
+  {
+    "key": "41_6",
+    "value": "That's what we all were, up here. The ones who couldn't make it in that city."
+  },
+  {
+    "key": "41_7",
+    "value": "Most of us, anyway. Shikaku's family had been here since before Los Angles was built up. Glad he stayed."
+  },
+  {
+    "key": "41_8",
+    "value": "My name is Rhom. I'm one of Paulie's oldest friends. A mentor, of sorts, actually."
+  },
+  {
+    "key": "41_9",
+    "value": "Who's Paulie?"
+  },
+  {
+    "key": "41_10",
+    "value": "Paulie Hedron?"
+  },
+  {
+    "key": "41_11",
+    "value": "You know. The one who let Ball out. The president of Los Angles."
+  },
+  {
+    "key": "41_12",
+    "value": "Paulie's not a bad cube. He means well."
+  },
+  {
+    "key": "41_13",
+    "value": "Then again, most everyone means well, after the fact."
+  },
+  {
+    "key": "41_14",
+    "value": "Paulie just had a habit of not understanding the perspective of others."
+  },
+  {
+    "key": "41_15",
+    "value": "He saw Ball as particularly unsympathetic. That a sphere would have trouble in Los Angles and complain about it... Paulie couldn't quite grasp it."
+  },
+  {
+    "key": "41_16",
+    "value": "We too, those of us out here, had trouble in Los Angles. Yet for some reason, Paulie holds little resent for us."
+  },
+  {
+    "key": "41_17",
+    "value": "The red mountains were steep. Ball could climb them, but it wasn't easy."
+  },
+  {
+    "key": "41_18",
+    "value": "Or, maybe it wasn't too bad for Ball. He didn't seem to struggle like most circles do."
+  },
+  {
+    "key": "41_19",
+    "value": "Sorry, spheres. Not circles. My bad. Habit, you know."
+  },
+  {
+    "key": "41_20",
+    "value": "Tetras lived up here too. While most tetras lived in one of the Pyras, this area was somewhat popular as well."
+  },
+  {
+    "key": "41_21",
+    "value": "There was equality here. No hierarchy."
+  },
+  {
+    "key": "41_22",
+    "value": "Everyone had a similar house. A roof over their head."
+  },
+  {
+    "key": "41_23",
+    "value": "The locations were different, but just that. Different, not better nor worse."
+  },
+  {
+    "key": "41_24",
+    "value": "Cubes came here to rid themselves of the culture of Los Angles. The hurt. The blame. The need to work. The shame that came with poor performance."
+  },
+  {
+    "key": "41_25",
+    "value": "This place was no paradise... but it didn't seek to be."
+  },
+  {
+    "key": "41_26",
+    "value": "Tetras came here to get a taste of cube society. See if they could learn something or other."
+  },
+  {
+    "key": "41_27",
+    "value": "Most tetras said they wouldn't dare go to that monument to cube consumerism and law and order."
+  },
+  {
+    "key": "41_28",
+    "value": "But all I see is a bunch of triangles that can't stand the thought that they're not on top."
+  },
+  {
+    "key": "41_29",
+    "value": "S-sorry, tetras. Not triangles. I'm better than that."
+  },
+  {
+    "key": "41_30",
+    "value": "I'd be lying if I said that everyone chose to be here."
+  },
+  {
+    "key": "41_31",
+    "value": "Though many come of their own volition, others... Well, we have some criminals among us."
+  },
+  {
+    "key": "41_32",
+    "value": "Petty crime, but, crime nonetheless."
+  },
+  {
+    "key": "41_33",
+    "value": "Sometimes political rivals get sent out here too. We take them with open arms, but they're usually not so glad to see us."
+  },
+  {
+    "key": "41_34",
+    "value": "Guess Ball probably understands, though his circumstances differed."
+  },
+  {
+    "key": "41_35",
+    "value": "Ball explored the village, little by little. He seemed shocked that shapes would offer a \"hello\" or \"howdy doo\"."
+  },
+  {
+    "key": "41_36",
+    "value": "Perhaps our quaint towns were a little much for him."
+  },
+  {
+    "key": "41_37",
+    "value": "Ball said to me once that he was surprised the Prettyhigh Steppe was so built up. He thought this was just a road to pass through."
+  },
+  {
+    "key": "41_38",
+    "value": "In all his time in Los Angles, he never imagined there was anything over here."
+  },
+  {
+    "key": "41_39",
+    "value": "He wasn't intending to stay here long. Made sense. He still had places to go. People to see."
+  },
+  {
+    "key": "41_40",
+    "value": "But he'd be back, someday. I knew he'd take a liking to here."
+  },
+  {
+    "key": "41_H",
+    "value": "These odd floating shapes appeared occasionally. Who put them here? Not that we don't welcome them, of course."
+  },
+  {
+    "key": "***LEVEL4_2***",
+    "value": ""
+  },
+  {
+    "key": "42_1",
+    "value": "Arrows. A path. Ball moved onward."
+  },
+  {
+    "key": "42_2",
+    "value": "The arrow is part triangle, part square. Ever notice?"
+  },
+  {
+    "key": "42_3",
+    "value": "Without the square, the triangle could point anywhere. Useless."
+  },
+  {
+    "key": "42_4",
+    "value": "Without the triangle, the square has no direction. Also useless."
+  },
+  {
+    "key": "42_5",
+    "value": "Yet, working together, they make a quite functional symbol."
+  },
+  {
+    "key": "42_6",
+    "value": "I'm not much for metaphor, but there's something there."
+  },
+  {
+    "key": "42_7",
+    "value": "You know, there is value in taking the common path. The road often traveled."
+  },
+  {
+    "key": "42_8",
+    "value": "Knowledge of those that came before you. For your benefit."
+  },
+  {
+    "key": "42_9",
+    "value": "This road is well-documented, if perhaps a little roundabout."
+  },
+  {
+    "key": "42_10",
+    "value": "Safe, but boring."
+  },
+  {
+    "key": "42_11",
+    "value": "But safe, nevertheless."
+  },
+  {
+    "key": "42_12",
+    "value": "I was always taught that Tetras were slackers. Smart, well-intentioned, slackers."
+  },
+  {
+    "key": "42_13",
+    "value": "And then I met one. Two. Five. Ten."
+  },
+  {
+    "key": "42_14",
+    "value": "And they were slackers, by my old standards. They were smart, but they never used their knowledge. I couldn't get it."
+  },
+  {
+    "key": "42_15",
+    "value": "I still don't understand their thought-process, not fully. But I do understand that they aren't the lazy shapes we imagined."
+  },
+  {
+    "key": "42_16",
+    "value": "Just because they weren't using their information to construct, as we might have, doesn't mean they weren't using it."
+  },
+  {
+    "key": "42_17",
+    "value": "Avoiding the wisdom of your elders. There is value in that road as well."
+  },
+  {
+    "key": "42_18",
+    "value": "It can be quicker to the top. In fact, it often is."
+  },
+  {
+    "key": "42_19",
+    "value": "But that path, the new one, the untrodden one... is fraught with peril."
+  },
+  {
+    "key": "42_20",
+    "value": "And the fall, the setback, is far more dangerous."
+  },
+  {
+    "key": "42_21",
+    "value": "Yet to dissuade someone from making a new path is foolhardy for a species. I wouldn't dare."
+  },
+  {
+    "key": "42_22",
+    "value": "I liked Ball. Wish he'd like me. But you really can't control others."
+  },
+  {
+    "key": "42_23",
+    "value": "Why are you curious about Ball?"
+  },
+  {
+    "key": "42_24",
+    "value": "Because he's different?"
+  },
+  {
+    "key": "42_25",
+    "value": "Everyone's different. But it's hard to see that, sometimes."
+  },
+  {
+    "key": "42_26",
+    "value": "Anyway, you've heard enough from me. Go talk to that one. He knows more about that whole side of Ball's trip."
+  },
+  {
+    "key": "42_H",
+    "value": "You want to find something? Discover something new? Then the odd road is the only place for you."
+  },
+  {
+    "key": "42_H2",
+    "value": "Sorry, didn't mean for that to rhyme."
+  }
+]}
